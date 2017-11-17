@@ -1,1 +1,42 @@
-{}
+{
+  "0": {
+    "host": "www.consumerfinance.gov",
+    "path": "/",
+    "port": "",
+    "protocol": "https",
+    "uriPath": "/",
+    "url": "https://www.consumerfinance.gov/",
+    "depth": 1,
+    "fetched": true,
+    "status": "downloaded",
+    "stateData": {
+      "requestLatency": 193,
+      "requestTime": 198,
+      "contentLength": 16796,
+      "contentType": "text/html; charset=utf-8",
+      "code": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "etag": "\"408cc9b2a0d745917a12585fce3d3695\"",
+        "server": "Apache",
+        "content-security-policy": "script-src 'self' 'unsafe-inline' 'unsafe-eval' *.google-analytics.com *.googletagmanager.com tagmanager.google.com optimize.google.com ajax.googleapis.com search.usa.gov api.mapbox.com js-agent.newrelic.com dnn506yrbagrg.cloudfront.net *.doubleclick.net bam.nr-data.net *.youtube.com *.ytimg.com trk.cetrk.com universal.iperceptions.com sample.crazyegg.com about: connect.facebook.net; img-src 'self' s3.amazonaws.com www.gstatic.com ssl.gstatic.com stats.g.doubleclick.net files.consumerfinance.gov img.youtube.com *.google-analytics.com trk.cetrk.com searchstats.usa.gov gtrk.s3.amazonaws.com *.googletagmanager.com tagmanager.google.com maps.googleapis.com optimize.google.com api.mapbox.com *.tiles.mapbox.com stats.search.usa.gov data: www.facebook.com; default-src 'self'; frame-src 'self' *.googletagmanager.com *.google-analytics.com optimize.google.com www.youtube.com *.doubleclick.net universal.iperceptions.com www.facebook.com staticxx.facebook.com; style-src 'self' 'unsafe-inline' fast.fonts.net tagmanager.google.com optimize.google.com api.mapbox.com fonts.googleapis.com; connect-src 'self' *.tiles.mapbox.com bam.nr-data.net files.consumerfinance.gov s3.amazonaws.com api.iperceptions.com; font-src 'self' data: fast.fonts.net fonts.google.com fonts.gstatic.com; report-uri /csp-report/",
+        "content-language": "en",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block",
+        "x-content-type-options": "nosniff",
+        "access-control-allow-origin": "https://www.consumerfinance.gov",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "date": "Fri, 17 Nov 2017 05:49:53 GMT",
+        "content-length": "16796",
+        "connection": "close",
+        "strict-transport-security": "max-age=31536000"
+      },
+      "downloadTime": 5,
+      "actualDataSize": 16796,
+      "sentIncorrectSize": false
+    },
+    "id": 0
+  },
+  "length": 1
+}
