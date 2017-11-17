@@ -10,8 +10,8 @@
     "fetched": true,
     "status": "downloaded",
     "stateData": {
-      "requestLatency": 193,
-      "requestTime": 198,
+      "requestLatency": 206,
+      "requestTime": 212,
       "contentLength": 16796,
       "contentType": "text/html; charset=utf-8",
       "code": 200,
@@ -27,12 +27,12 @@
         "access-control-allow-origin": "https://www.consumerfinance.gov",
         "vary": "Accept-Encoding",
         "content-encoding": "gzip",
-        "date": "Fri, 17 Nov 2017 05:49:53 GMT",
+        "date": "Fri, 17 Nov 2017 05:53:53 GMT",
         "content-length": "16796",
         "connection": "close",
         "strict-transport-security": "max-age=31536000"
       },
-      "downloadTime": 5,
+      "downloadTime": 6,
       "actualDataSize": 16796,
       "sentIncorrectSize": false
     },
